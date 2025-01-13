@@ -5,6 +5,10 @@ This project involves analyzing a year’s worth of health data to uncover trend
 
 ---
 
+Below is the summary analysis of my health data
+[![Alt Text](Analysis/image.png)
+
+
 ## Project Files
 
 ### 1. **CSV File: `health_data.csv`**
